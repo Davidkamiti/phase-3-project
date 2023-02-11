@@ -17,6 +17,7 @@ The objective of this project is to develop the best model that can be used to p
 
 ## EDA
 ![Screenshot (20)](https://user-images.githubusercontent.com/117192673/218268020-67c4459a-c5eb-4089-9d1a-a6cc2953b8b2.png)
+
 show around 14% of customer left and 86% stayed
 
 ## modeling
