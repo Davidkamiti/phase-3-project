@@ -16,7 +16,7 @@ The objective of this project is to develop the best model that can be used to p
 ### DATA
 
 ## EDA
-![Screenshot (20)](C:\Users\DavidKamiti\OneDrive\Pictures\Screenshots\Screenshot (20).png)
+![Alt text](C:\Users\DavidKamiti\OneDrive\Pictures\Screenshots\Screenshot (20).png)
 
 show around 14% of customer left and 86% stayed
 
