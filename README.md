@@ -16,6 +16,8 @@ The objective of this project is to develop the best model that can be used to p
 ### DATA
 
 ## EDA
+![churn](C:\Users\DavidKamiti\OneDrive\Pictures\Screenshots\Screenshot (20).png)
+show around 14% of customer left and 86% stayed
 
 ## modeling
 The model that performed better of the one evaluated was XGBoost which had an accuracy of 0.9763(97.63%) on training data and Accuracy of 0.944(94.4%) on testing data.
