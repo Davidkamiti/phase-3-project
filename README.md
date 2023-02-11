@@ -22,7 +22,9 @@ The model that performed better of the one evaluated was XGBoost which had an ac
 The model was able to identify the positive class (1) with a precision of 88%, recall of 72%, and f1-score of 79%. On the other hand, it was able to identify the negative class (0) with a precision of 95%, recall of 98%, and f1-score of 97%. Which was better than the other models
 ## conclusion
 Customers who called more than four times left, this might be due to their concern not addressed or the feedback recieved was not helpful and didn't sort their problem and they opted to try other providers.
+
 There were also some states that had highest number of customers who churned. this can be due to poor network coverage or were not being given good services compared to other telecommunication networks in the area.
+
 Also the charges and minutes of day calls were contributing highly to the costomers churning out. this might be due to high charges imposed on the services provided.
 
 ## Recommendations
