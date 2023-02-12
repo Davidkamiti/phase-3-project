@@ -38,3 +38,4 @@ Also the charges and minutes of day calls were contributing highly to the costom
 5. Need to train their employees to identify and provide feedback that are more helpful to the company customers to avoid losing them
 6. Check on the charges and the day calls, provide affordable services that are standard in regards to the services they offer and compared to other companies
 ## limitations
+The data was not big enough to give more details for customer churn.
